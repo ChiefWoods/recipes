@@ -1,3 +1,3 @@
-# odin-recipes
+# Recipes
 
-Project on recipes
+Project for The Odin Project
