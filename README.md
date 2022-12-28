@@ -1,3 +1,3 @@
 # odin-recipes
 
-Project on recipes
+Recipe blog for The Odin Project
